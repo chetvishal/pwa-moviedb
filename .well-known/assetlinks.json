@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "app.netlify.stupefied_montalcini_950ebd.twa",
+                 "sha256_cert_fingerprints": ["F3:93:88:EC:52:B5:A5:A4:68:CE:F6:05:EC:35:54:E7:6F:DA:0C:69:12:A2:BE:55:61:60:6E:78:A3:4E:EC:8C"] }
+  }]
